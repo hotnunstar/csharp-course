@@ -1,0 +1,14 @@
+D:\Pessoal\Projects\C#\MasterClass\ProgramStructure\ProgramStructure\bin\Debug\ProgramStructure.exe.config
+D:\Pessoal\Projects\C#\MasterClass\ProgramStructure\ProgramStructure\bin\Debug\ProgramStructure.exe
+D:\Pessoal\Projects\C#\MasterClass\ProgramStructure\ProgramStructure\bin\Debug\ProgramStructure.pdb
+D:\Pessoal\Projects\C#\MasterClass\ProgramStructure\ProgramStructure\obj\Debug\Operators.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\ProgramStructure\ProgramStructure\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\ProgramStructure\ProgramStructure\obj\Debug\ProgramStructure.exe
+D:\Pessoal\Projects\C#\MasterClass\ProgramStructure\ProgramStructure\obj\Debug\ProgramStructure.pdb
+D:\Pessoal\Projects\C#\MasterClass\Operators\ProgramStructure\bin\Debug\ProgramStructure.exe.config
+D:\Pessoal\Projects\C#\MasterClass\Operators\ProgramStructure\bin\Debug\ProgramStructure.exe
+D:\Pessoal\Projects\C#\MasterClass\Operators\ProgramStructure\bin\Debug\ProgramStructure.pdb
+D:\Pessoal\Projects\C#\MasterClass\Operators\ProgramStructure\obj\Debug\Operators.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\Operators\ProgramStructure\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\Operators\ProgramStructure\obj\Debug\ProgramStructure.exe
+D:\Pessoal\Projects\C#\MasterClass\Operators\ProgramStructure\obj\Debug\ProgramStructure.pdb
