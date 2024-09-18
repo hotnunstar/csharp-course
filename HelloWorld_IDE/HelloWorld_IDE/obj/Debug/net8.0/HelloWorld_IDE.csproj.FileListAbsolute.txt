@@ -1,0 +1,14 @@
+D:\Pessoal\Projects\C#\HelloWorld_IDE\HelloWorld_IDE\bin\Debug\net8.0\HelloWorld_IDE.exe
+D:\Pessoal\Projects\C#\HelloWorld_IDE\HelloWorld_IDE\bin\Debug\net8.0\HelloWorld_IDE.deps.json
+D:\Pessoal\Projects\C#\HelloWorld_IDE\HelloWorld_IDE\bin\Debug\net8.0\HelloWorld_IDE.runtimeconfig.json
+D:\Pessoal\Projects\C#\HelloWorld_IDE\HelloWorld_IDE\bin\Debug\net8.0\HelloWorld_IDE.dll
+D:\Pessoal\Projects\C#\HelloWorld_IDE\HelloWorld_IDE\bin\Debug\net8.0\HelloWorld_IDE.pdb
+D:\Pessoal\Projects\C#\HelloWorld_IDE\HelloWorld_IDE\obj\Debug\net8.0\HelloWorld_IDE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\Projects\C#\HelloWorld_IDE\HelloWorld_IDE\obj\Debug\net8.0\HelloWorld_IDE.AssemblyInfoInputs.cache
+D:\Pessoal\Projects\C#\HelloWorld_IDE\HelloWorld_IDE\obj\Debug\net8.0\HelloWorld_IDE.AssemblyInfo.cs
+D:\Pessoal\Projects\C#\HelloWorld_IDE\HelloWorld_IDE\obj\Debug\net8.0\HelloWorld_IDE.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\HelloWorld_IDE\HelloWorld_IDE\obj\Debug\net8.0\HelloWorld_IDE.dll
+D:\Pessoal\Projects\C#\HelloWorld_IDE\HelloWorld_IDE\obj\Debug\net8.0\refint\HelloWorld_IDE.dll
+D:\Pessoal\Projects\C#\HelloWorld_IDE\HelloWorld_IDE\obj\Debug\net8.0\HelloWorld_IDE.pdb
+D:\Pessoal\Projects\C#\HelloWorld_IDE\HelloWorld_IDE\obj\Debug\net8.0\HelloWorld_IDE.genruntimeconfig.cache
+D:\Pessoal\Projects\C#\HelloWorld_IDE\HelloWorld_IDE\obj\Debug\net8.0\ref\HelloWorld_IDE.dll
