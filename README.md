@@ -1,1 +1,1 @@
-This repository contains the materials from my first C# Course.
+This repository contains the materials from C# Master Class.
