@@ -1,0 +1,14 @@
+D:\Pessoal\Projects\C#\PracticeVariable\PracticeVariable\bin\Debug\net8.0\PracticeVariable.exe
+D:\Pessoal\Projects\C#\PracticeVariable\PracticeVariable\bin\Debug\net8.0\PracticeVariable.deps.json
+D:\Pessoal\Projects\C#\PracticeVariable\PracticeVariable\bin\Debug\net8.0\PracticeVariable.runtimeconfig.json
+D:\Pessoal\Projects\C#\PracticeVariable\PracticeVariable\bin\Debug\net8.0\PracticeVariable.dll
+D:\Pessoal\Projects\C#\PracticeVariable\PracticeVariable\bin\Debug\net8.0\PracticeVariable.pdb
+D:\Pessoal\Projects\C#\PracticeVariable\PracticeVariable\obj\Debug\net8.0\PracticeVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\Projects\C#\PracticeVariable\PracticeVariable\obj\Debug\net8.0\PracticeVariable.AssemblyInfoInputs.cache
+D:\Pessoal\Projects\C#\PracticeVariable\PracticeVariable\obj\Debug\net8.0\PracticeVariable.AssemblyInfo.cs
+D:\Pessoal\Projects\C#\PracticeVariable\PracticeVariable\obj\Debug\net8.0\PracticeVariable.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\PracticeVariable\PracticeVariable\obj\Debug\net8.0\PracticeVariable.dll
+D:\Pessoal\Projects\C#\PracticeVariable\PracticeVariable\obj\Debug\net8.0\refint\PracticeVariable.dll
+D:\Pessoal\Projects\C#\PracticeVariable\PracticeVariable\obj\Debug\net8.0\PracticeVariable.pdb
+D:\Pessoal\Projects\C#\PracticeVariable\PracticeVariable\obj\Debug\net8.0\PracticeVariable.genruntimeconfig.cache
+D:\Pessoal\Projects\C#\PracticeVariable\PracticeVariable\obj\Debug\net8.0\ref\PracticeVariable.dll
