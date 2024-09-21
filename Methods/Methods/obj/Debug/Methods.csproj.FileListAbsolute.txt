@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\Methods\Methods\bin\Debug\Methods.exe.config
+D:\Pessoal\Projects\C#\MasterClass\Methods\Methods\bin\Debug\Methods.exe
+D:\Pessoal\Projects\C#\MasterClass\Methods\Methods\bin\Debug\Methods.pdb
+D:\Pessoal\Projects\C#\MasterClass\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\Methods\Methods\obj\Debug\Methods.exe
+D:\Pessoal\Projects\C#\MasterClass\Methods\Methods\obj\Debug\Methods.pdb
