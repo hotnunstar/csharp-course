@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\POO\PersonInformationManagementSystem\PersonInformationManagementSystem\bin\Debug\PersonInformationManagementSystem.exe.config
+D:\Pessoal\Projects\C#\MasterClass\POO\PersonInformationManagementSystem\PersonInformationManagementSystem\bin\Debug\PersonInformationManagementSystem.exe
+D:\Pessoal\Projects\C#\MasterClass\POO\PersonInformationManagementSystem\PersonInformationManagementSystem\bin\Debug\PersonInformationManagementSystem.pdb
+D:\Pessoal\Projects\C#\MasterClass\POO\PersonInformationManagementSystem\PersonInformationManagementSystem\obj\Debug\PersonInformationManagementSystem.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\POO\PersonInformationManagementSystem\PersonInformationManagementSystem\obj\Debug\PersonInformationManagementSystem.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\POO\PersonInformationManagementSystem\PersonInformationManagementSystem\obj\Debug\PersonInformationManagementSystem.exe
+D:\Pessoal\Projects\C#\MasterClass\POO\PersonInformationManagementSystem\PersonInformationManagementSystem\obj\Debug\PersonInformationManagementSystem.pdb

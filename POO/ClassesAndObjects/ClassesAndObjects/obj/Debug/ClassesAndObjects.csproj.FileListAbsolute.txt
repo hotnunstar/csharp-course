@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+D:\Pessoal\Projects\C#\MasterClass\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+D:\Pessoal\Projects\C#\MasterClass\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+D:\Pessoal\Projects\C#\MasterClass\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+D:\Pessoal\Projects\C#\MasterClass\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb

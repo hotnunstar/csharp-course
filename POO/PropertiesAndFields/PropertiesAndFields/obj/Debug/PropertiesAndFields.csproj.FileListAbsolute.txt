@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\PropertiesAndFields\PropertiesAndFields\bin\Debug\PropertiesAndFields.exe.config
+D:\Pessoal\Projects\C#\MasterClass\PropertiesAndFields\PropertiesAndFields\bin\Debug\PropertiesAndFields.exe
+D:\Pessoal\Projects\C#\MasterClass\PropertiesAndFields\PropertiesAndFields\bin\Debug\PropertiesAndFields.pdb
+D:\Pessoal\Projects\C#\MasterClass\PropertiesAndFields\PropertiesAndFields\obj\Debug\PropertiesAndFields.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\PropertiesAndFields\PropertiesAndFields\obj\Debug\PropertiesAndFields.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\PropertiesAndFields\PropertiesAndFields\obj\Debug\PropertiesAndFields.exe
+D:\Pessoal\Projects\C#\MasterClass\PropertiesAndFields\PropertiesAndFields\obj\Debug\PropertiesAndFields.pdb

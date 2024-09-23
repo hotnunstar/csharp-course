@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\POO\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\POO\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\POO\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\Pessoal\Projects\C#\MasterClass\POO\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\Pessoal\Projects\C#\MasterClass\POO\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\Pessoal\Projects\C#\MasterClass\POO\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\Pessoal\Projects\C#\MasterClass\POO\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
