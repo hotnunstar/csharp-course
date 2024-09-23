@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\Loops\Loops\bin\Debug\Loops.exe.config
+D:\Pessoal\Projects\C#\MasterClass\Loops\Loops\bin\Debug\Loops.exe
+D:\Pessoal\Projects\C#\MasterClass\Loops\Loops\bin\Debug\Loops.pdb
+D:\Pessoal\Projects\C#\MasterClass\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\Loops\Loops\obj\Debug\Loops.exe
+D:\Pessoal\Projects\C#\MasterClass\Loops\Loops\obj\Debug\Loops.pdb
