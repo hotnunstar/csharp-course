@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\Collections&FileHandling\Collections&FileHandling\bin\Debug\Collections&FileHandling.exe.config
+D:\Pessoal\Projects\C#\MasterClass\Collections&FileHandling\Collections&FileHandling\bin\Debug\Collections&FileHandling.exe
+D:\Pessoal\Projects\C#\MasterClass\Collections&FileHandling\Collections&FileHandling\bin\Debug\Collections&FileHandling.pdb
+D:\Pessoal\Projects\C#\MasterClass\Collections&FileHandling\Collections&FileHandling\obj\Debug\Collections&FileHandling.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\Collections&FileHandling\Collections&FileHandling\obj\Debug\Collections&FileHandling.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\Collections&FileHandling\Collections&FileHandling\obj\Debug\Collections&FileHandling.exe
+D:\Pessoal\Projects\C#\MasterClass\Collections&FileHandling\Collections&FileHandling\obj\Debug\Collections&FileHandling.pdb
