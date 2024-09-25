@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Structures\Structures\obj\Debug\Structures.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Structures\Structures\obj\Debug\Structures.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Structures\Structures\bin\Debug\Structures.exe.config
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Structures\Structures\bin\Debug\Structures.exe
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Structures\Structures\bin\Debug\Structures.pdb
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Structures\Structures\obj\Debug\Structures.exe
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Structures\Structures\obj\Debug\Structures.pdb

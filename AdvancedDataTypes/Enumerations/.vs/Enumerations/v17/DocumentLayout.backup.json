@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pessoal\\Projects\\C#\\MasterClass\\AdvancedDataTypes\\Enumerations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4437E5FD-12AD-4A3A-9B3E-1CC588EC7C05}|Enumerations\\Enumerations.csproj|d:\\pessoal\\projects\\c#\\masterclass\\advanceddatatypes\\enumerations\\enumerations\\trafficlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4437E5FD-12AD-4A3A-9B3E-1CC588EC7C05}|Enumerations\\Enumerations.csproj|solutionrelative:enumerations\\trafficlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4437E5FD-12AD-4A3A-9B3E-1CC588EC7C05}|Enumerations\\Enumerations.csproj|d:\\pessoal\\projects\\c#\\masterclass\\advanceddatatypes\\enumerations\\enumerations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4437E5FD-12AD-4A3A-9B3E-1CC588EC7C05}|Enumerations\\Enumerations.csproj|solutionrelative:enumerations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrafficLight.cs",
+              "DocumentMoniker": "D:\\Pessoal\\Projects\\C#\\MasterClass\\AdvancedDataTypes\\Enumerations\\Enumerations\\TrafficLight.cs",
+              "RelativeDocumentMoniker": "Enumerations\\TrafficLight.cs",
+              "ToolTip": "D:\\Pessoal\\Projects\\C#\\MasterClass\\AdvancedDataTypes\\Enumerations\\Enumerations\\TrafficLight.cs",
+              "RelativeToolTip": "Enumerations\\TrafficLight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:33:43.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pessoal\\Projects\\C#\\MasterClass\\AdvancedDataTypes\\Enumerations\\Enumerations\\Program.cs",
+              "RelativeDocumentMoniker": "Enumerations\\Program.cs",
+              "ToolTip": "D:\\Pessoal\\Projects\\C#\\MasterClass\\AdvancedDataTypes\\Enumerations\\Enumerations\\Program.cs",
+              "RelativeToolTip": "Enumerations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:33:22.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

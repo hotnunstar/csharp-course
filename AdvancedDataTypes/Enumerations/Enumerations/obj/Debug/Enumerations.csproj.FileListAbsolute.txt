@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Enumerations\Enumerations\bin\Debug\Enumerations.exe.config
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Enumerations\Enumerations\bin\Debug\Enumerations.exe
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Enumerations\Enumerations\bin\Debug\Enumerations.pdb
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Enumerations\Enumerations\obj\Debug\Enumerations.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Enumerations\Enumerations\obj\Debug\Enumerations.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Enumerations\Enumerations\obj\Debug\Enumerations.exe
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Enumerations\Enumerations\obj\Debug\Enumerations.pdb

@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Tuple\Tuple\obj\Debug\Tuple.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Tuple\Tuple\obj\Debug\Tuple.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Tuple\Tuple\bin\Debug\Tuple.exe.config
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Tuple\Tuple\bin\Debug\Tuple.exe
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Tuple\Tuple\bin\Debug\Tuple.pdb
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Tuple\Tuple\obj\Debug\Tuple.exe
+D:\Pessoal\Projects\C#\MasterClass\AdvancedDataTypes\Tuple\Tuple\obj\Debug\Tuple.pdb
