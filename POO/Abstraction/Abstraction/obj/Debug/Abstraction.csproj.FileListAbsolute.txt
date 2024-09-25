@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\POO\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+D:\Pessoal\Projects\C#\MasterClass\POO\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+D:\Pessoal\Projects\C#\MasterClass\POO\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+D:\Pessoal\Projects\C#\MasterClass\POO\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\POO\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\POO\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+D:\Pessoal\Projects\C#\MasterClass\POO\Abstraction\Abstraction\obj\Debug\Abstraction.pdb

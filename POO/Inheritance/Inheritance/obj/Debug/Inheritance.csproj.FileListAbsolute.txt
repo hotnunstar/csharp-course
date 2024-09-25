@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\POO\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\POO\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\POO\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\Pessoal\Projects\C#\MasterClass\POO\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\Pessoal\Projects\C#\MasterClass\POO\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\Pessoal\Projects\C#\MasterClass\POO\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\Pessoal\Projects\C#\MasterClass\POO\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
