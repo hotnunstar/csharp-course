@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Delegates\u0026Events\\LambdaExpression\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3413631-EA6F-4DDF-9FB3-95D7B40C50DC}|LambdaExpression\\LambdaExpression.csproj|d:\\pessoal\\projects\\c#\\masterclass\\delegates\u0026events\\lambdaexpression\\lambdaexpression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3413631-EA6F-4DDF-9FB3-95D7B40C50DC}|LambdaExpression\\LambdaExpression.csproj|solutionrelative:lambdaexpression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3413631-EA6F-4DDF-9FB3-95D7B40C50DC}|LambdaExpression\\LambdaExpression.csproj|d:\\pessoal\\projects\\c#\\masterclass\\delegates\u0026events\\lambdaexpression\\lambdaexpression\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3413631-EA6F-4DDF-9FB3-95D7B40C50DC}|LambdaExpression\\LambdaExpression.csproj|solutionrelative:lambdaexpression\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Delegates\u0026Events\\LambdaExpression\\LambdaExpression\\Employee.cs",
+              "RelativeDocumentMoniker": "LambdaExpression\\Employee.cs",
+              "ToolTip": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Delegates\u0026Events\\LambdaExpression\\LambdaExpression\\Employee.cs",
+              "RelativeToolTip": "LambdaExpression\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:00:23.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Delegates\u0026Events\\LambdaExpression\\LambdaExpression\\Program.cs",
+              "RelativeDocumentMoniker": "LambdaExpression\\Program.cs",
+              "ToolTip": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Delegates\u0026Events\\LambdaExpression\\LambdaExpression\\Program.cs",
+              "RelativeToolTip": "LambdaExpression\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:00:01.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

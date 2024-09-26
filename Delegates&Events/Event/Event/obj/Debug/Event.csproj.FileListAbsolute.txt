@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\Delegates&Events\Event\Event\bin\Debug\Event.exe.config
+D:\Pessoal\Projects\C#\MasterClass\Delegates&Events\Event\Event\bin\Debug\Event.exe
+D:\Pessoal\Projects\C#\MasterClass\Delegates&Events\Event\Event\bin\Debug\Event.pdb
+D:\Pessoal\Projects\C#\MasterClass\Delegates&Events\Event\Event\obj\Debug\Event.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\Delegates&Events\Event\Event\obj\Debug\Event.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\Delegates&Events\Event\Event\obj\Debug\Event.exe
+D:\Pessoal\Projects\C#\MasterClass\Delegates&Events\Event\Event\obj\Debug\Event.pdb

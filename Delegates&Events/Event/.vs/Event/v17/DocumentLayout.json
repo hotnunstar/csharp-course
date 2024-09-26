@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Delegates\u0026Events\\Event\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8E56DA-36AB-4324-B8BD-37BB30B296FE}|Event\\Event.csproj|d:\\pessoal\\projects\\c#\\masterclass\\delegates\u0026events\\event\\event\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8E56DA-36AB-4324-B8BD-37BB30B296FE}|Event\\Event.csproj|solutionrelative:event\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8E56DA-36AB-4324-B8BD-37BB30B296FE}|Event\\Event.csproj|d:\\pessoal\\projects\\c#\\masterclass\\delegates\u0026events\\event\\event\\customtaskassignmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8E56DA-36AB-4324-B8BD-37BB30B296FE}|Event\\Event.csproj|solutionrelative:event\\customtaskassignmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8E56DA-36AB-4324-B8BD-37BB30B296FE}|Event\\Event.csproj|d:\\pessoal\\projects\\c#\\masterclass\\delegates\u0026events\\event\\event\\taskassignmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8E56DA-36AB-4324-B8BD-37BB30B296FE}|Event\\Event.csproj|solutionrelative:event\\taskassignmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8E56DA-36AB-4324-B8BD-37BB30B296FE}|Event\\Event.csproj|d:\\pessoal\\projects\\c#\\masterclass\\delegates\u0026events\\event\\event\\officetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8E56DA-36AB-4324-B8BD-37BB30B296FE}|Event\\Event.csproj|solutionrelative:event\\officetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomTaskAssignmentManager.cs",
+              "DocumentMoniker": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Delegates\u0026Events\\Event\\Event\\CustomTaskAssignmentManager.cs",
+              "RelativeDocumentMoniker": "Event\\CustomTaskAssignmentManager.cs",
+              "ToolTip": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Delegates\u0026Events\\Event\\Event\\CustomTaskAssignmentManager.cs",
+              "RelativeToolTip": "Event\\CustomTaskAssignmentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:47:31.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskAssignmentManager.cs",
+              "DocumentMoniker": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Delegates\u0026Events\\Event\\Event\\TaskAssignmentManager.cs",
+              "RelativeDocumentMoniker": "Event\\TaskAssignmentManager.cs",
+              "ToolTip": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Delegates\u0026Events\\Event\\Event\\TaskAssignmentManager.cs",
+              "RelativeToolTip": "Event\\TaskAssignmentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:45:42.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OfficeTask.cs",
+              "DocumentMoniker": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Delegates\u0026Events\\Event\\Event\\OfficeTask.cs",
+              "RelativeDocumentMoniker": "Event\\OfficeTask.cs",
+              "ToolTip": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Delegates\u0026Events\\Event\\Event\\OfficeTask.cs",
+              "RelativeToolTip": "Event\\OfficeTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:44:43.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Delegates\u0026Events\\Event\\Event\\Program.cs",
+              "RelativeDocumentMoniker": "Event\\Program.cs",
+              "ToolTip": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Delegates\u0026Events\\Event\\Event\\Program.cs",
+              "RelativeToolTip": "Event\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:44:29.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

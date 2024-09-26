@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\Delegates&Events\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe.config
+D:\Pessoal\Projects\C#\MasterClass\Delegates&Events\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe
+D:\Pessoal\Projects\C#\MasterClass\Delegates&Events\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.pdb
+D:\Pessoal\Projects\C#\MasterClass\Delegates&Events\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\Delegates&Events\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\Delegates&Events\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.exe
+D:\Pessoal\Projects\C#\MasterClass\Delegates&Events\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.pdb
