@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F2KEGw9mqVo=",
+  "success": true,
+  "projectFilePath": "D:\\Pessoal\\Projects\\C#\\MasterClass\\FileIO&Serialization\\JSON&XML\\JSON&XML\\JSON&XML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nu-no\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

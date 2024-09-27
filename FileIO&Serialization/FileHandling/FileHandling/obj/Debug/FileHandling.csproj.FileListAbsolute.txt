@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\FileIO&Serialization\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
+D:\Pessoal\Projects\C#\MasterClass\FileIO&Serialization\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+D:\Pessoal\Projects\C#\MasterClass\FileIO&Serialization\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+D:\Pessoal\Projects\C#\MasterClass\FileIO&Serialization\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\FileIO&Serialization\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\FileIO&Serialization\FileHandling\FileHandling\obj\Debug\FileHandling.exe
+D:\Pessoal\Projects\C#\MasterClass\FileIO&Serialization\FileHandling\FileHandling\obj\Debug\FileHandling.pdb

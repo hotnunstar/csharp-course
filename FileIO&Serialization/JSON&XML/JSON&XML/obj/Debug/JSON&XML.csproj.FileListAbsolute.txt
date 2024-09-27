@@ -1,0 +1,9 @@
+D:\Pessoal\Projects\C#\MasterClass\FileIO&Serialization\JSON&XML\JSON&XML\bin\Debug\JSON&XML.exe.config
+D:\Pessoal\Projects\C#\MasterClass\FileIO&Serialization\JSON&XML\JSON&XML\bin\Debug\JSON&XML.exe
+D:\Pessoal\Projects\C#\MasterClass\FileIO&Serialization\JSON&XML\JSON&XML\bin\Debug\JSON&XML.pdb
+D:\Pessoal\Projects\C#\MasterClass\FileIO&Serialization\JSON&XML\JSON&XML\bin\Debug\Newtonsoft.Json.dll
+D:\Pessoal\Projects\C#\MasterClass\FileIO&Serialization\JSON&XML\JSON&XML\obj\Debug\JSON&XML.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\FileIO&Serialization\JSON&XML\JSON&XML\obj\Debug\JSON&XML.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\FileIO&Serialization\JSON&XML\JSON&XML\obj\Debug\JSON&XML.csproj.Up2Date
+D:\Pessoal\Projects\C#\MasterClass\FileIO&Serialization\JSON&XML\JSON&XML\obj\Debug\JSON&XML.exe
+D:\Pessoal\Projects\C#\MasterClass\FileIO&Serialization\JSON&XML\JSON&XML\obj\Debug\JSON&XML.pdb

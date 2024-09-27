@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Pessoal\\Projects\\C#\\MasterClass\\FileIO&Serialization\\JSON&XML\\JSON&XML\\JSON&XML.csproj": {}
+  },
+  "projects": {
+    "D:\\Pessoal\\Projects\\C#\\MasterClass\\FileIO&Serialization\\JSON&XML\\JSON&XML\\JSON&XML.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pessoal\\Projects\\C#\\MasterClass\\FileIO&Serialization\\JSON&XML\\JSON&XML\\JSON&XML.csproj",
+        "projectName": "JSON&XML",
+        "projectPath": "D:\\Pessoal\\Projects\\C#\\MasterClass\\FileIO&Serialization\\JSON&XML\\JSON&XML\\JSON&XML.csproj",
+        "packagesPath": "C:\\Users\\nu-no\\.nuget\\packages\\",
+        "outputPath": "D:\\Pessoal\\Projects\\C#\\MasterClass\\FileIO&Serialization\\JSON&XML\\JSON&XML\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\nu-no\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
