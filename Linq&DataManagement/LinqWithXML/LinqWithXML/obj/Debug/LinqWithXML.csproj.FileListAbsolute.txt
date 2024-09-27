@@ -1,0 +1,9 @@
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LinqWithXML\LinqWithXML\bin\Debug\input.xml
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LinqWithXML\LinqWithXML\bin\Debug\output.xml
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.exe.config
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.exe
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.pdb
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.exe
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Linq\u0026DataManagement\\LinqWithCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B87637AF-4C92-46F3-92CE-478F24DBA8CF}|LinqWithCollection\\LinqWithCollection.csproj|d:\\pessoal\\projects\\c#\\masterclass\\linq\u0026datamanagement\\linqwithcollection\\linqwithcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87637AF-4C92-46F3-92CE-478F24DBA8CF}|LinqWithCollection\\LinqWithCollection.csproj|solutionrelative:linqwithcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87637AF-4C92-46F3-92CE-478F24DBA8CF}|LinqWithCollection\\LinqWithCollection.csproj|d:\\pessoal\\projects\\c#\\masterclass\\linq\u0026datamanagement\\linqwithcollection\\linqwithcollection\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87637AF-4C92-46F3-92CE-478F24DBA8CF}|LinqWithCollection\\LinqWithCollection.csproj|solutionrelative:linqwithcollection\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Linq\u0026DataManagement\\LinqWithCollection\\LinqWithCollection\\Student.cs",
+              "RelativeDocumentMoniker": "LinqWithCollection\\Student.cs",
+              "ToolTip": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Linq\u0026DataManagement\\LinqWithCollection\\LinqWithCollection\\Student.cs",
+              "RelativeToolTip": "LinqWithCollection\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:49:40.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Linq\u0026DataManagement\\LinqWithCollection\\LinqWithCollection\\Program.cs",
+              "RelativeDocumentMoniker": "LinqWithCollection\\Program.cs",
+              "ToolTip": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Linq\u0026DataManagement\\LinqWithCollection\\LinqWithCollection\\Program.cs",
+              "RelativeToolTip": "LinqWithCollection\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:49:25.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

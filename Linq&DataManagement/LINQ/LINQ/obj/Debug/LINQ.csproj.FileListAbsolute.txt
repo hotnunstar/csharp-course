@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LINQ\LINQ\bin\Debug\LINQ.exe.config
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LINQ\LINQ\bin\Debug\LINQ.exe
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LINQ\LINQ\bin\Debug\LINQ.pdb
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LINQ\LINQ\obj\Debug\LINQ.exe
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LINQ\LINQ\obj\Debug\LINQ.pdb

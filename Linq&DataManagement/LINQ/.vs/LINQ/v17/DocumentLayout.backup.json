@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Linq\u0026DataManagement\\LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F872F719-1E0B-456F-AD55-28786922AA3F}|LINQ\\LINQ.csproj|d:\\pessoal\\projects\\c#\\masterclass\\linq\u0026datamanagement\\linq\\linq\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F872F719-1E0B-456F-AD55-28786922AA3F}|LINQ\\LINQ.csproj|solutionrelative:linq\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F872F719-1E0B-456F-AD55-28786922AA3F}|LINQ\\LINQ.csproj|d:\\pessoal\\projects\\c#\\masterclass\\linq\u0026datamanagement\\linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F872F719-1E0B-456F-AD55-28786922AA3F}|LINQ\\LINQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Linq\u0026DataManagement\\LINQ\\LINQ\\Flight.cs",
+              "RelativeDocumentMoniker": "LINQ\\Flight.cs",
+              "ToolTip": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Linq\u0026DataManagement\\LINQ\\LINQ\\Flight.cs",
+              "RelativeToolTip": "LINQ\\Flight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:15:44.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Linq\u0026DataManagement\\LINQ\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ\\Program.cs",
+              "ToolTip": "D:\\Pessoal\\Projects\\C#\\MasterClass\\Linq\u0026DataManagement\\LINQ\\LINQ\\Program.cs",
+              "RelativeToolTip": "LINQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:15:23.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

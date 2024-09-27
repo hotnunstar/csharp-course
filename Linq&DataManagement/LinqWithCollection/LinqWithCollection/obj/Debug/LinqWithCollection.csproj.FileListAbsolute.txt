@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LinqWithCollection\LinqWithCollection\obj\Debug\LinqWithCollection.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LinqWithCollection\LinqWithCollection\obj\Debug\LinqWithCollection.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LinqWithCollection\LinqWithCollection\bin\Debug\LinqWithCollection.exe.config
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LinqWithCollection\LinqWithCollection\bin\Debug\LinqWithCollection.exe
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LinqWithCollection\LinqWithCollection\bin\Debug\LinqWithCollection.pdb
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LinqWithCollection\LinqWithCollection\obj\Debug\LinqWithCollection.exe
+D:\Pessoal\Projects\C#\MasterClass\Linq&DataManagement\LinqWithCollection\LinqWithCollection\obj\Debug\LinqWithCollection.pdb
