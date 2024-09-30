@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\Asynchronous&Threading\Thread\Thread\bin\Debug\Thread.exe.config
+D:\Pessoal\Projects\C#\MasterClass\Asynchronous&Threading\Thread\Thread\bin\Debug\Thread.exe
+D:\Pessoal\Projects\C#\MasterClass\Asynchronous&Threading\Thread\Thread\bin\Debug\Thread.pdb
+D:\Pessoal\Projects\C#\MasterClass\Asynchronous&Threading\Thread\Thread\obj\Debug\Thread.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\Asynchronous&Threading\Thread\Thread\obj\Debug\Thread.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\Asynchronous&Threading\Thread\Thread\obj\Debug\Thread.exe
+D:\Pessoal\Projects\C#\MasterClass\Asynchronous&Threading\Thread\Thread\obj\Debug\Thread.pdb

@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\Asynchronous&Threading\SpeechCompetition\SpeechCompetition\bin\Debug\SpeechCompetition.exe.config
+D:\Pessoal\Projects\C#\MasterClass\Asynchronous&Threading\SpeechCompetition\SpeechCompetition\bin\Debug\SpeechCompetition.exe
+D:\Pessoal\Projects\C#\MasterClass\Asynchronous&Threading\SpeechCompetition\SpeechCompetition\bin\Debug\SpeechCompetition.pdb
+D:\Pessoal\Projects\C#\MasterClass\Asynchronous&Threading\SpeechCompetition\SpeechCompetition\obj\Debug\SpeechCompetition.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\Asynchronous&Threading\SpeechCompetition\SpeechCompetition\obj\Debug\SpeechCompetition.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\Asynchronous&Threading\SpeechCompetition\SpeechCompetition\obj\Debug\SpeechCompetition.exe
+D:\Pessoal\Projects\C#\MasterClass\Asynchronous&Threading\SpeechCompetition\SpeechCompetition\obj\Debug\SpeechCompetition.pdb
