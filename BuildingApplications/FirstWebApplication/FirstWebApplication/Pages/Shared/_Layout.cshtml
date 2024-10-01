@@ -1,0 +1,71 @@
+﻿<!DOCTYPE <html xmlns="http://www.w3.org/1999/xhtml">
+    <head lang="en">
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>Sign Up</title>
+        <style>
+            body {
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                background-color: #f1f1f1;
+                margin: 0;
+                padding: 0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+            }
+
+            .signup-container {
+                background-color: #fff;
+                border-radius: 8px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                overflow: hidden;
+                width: 400px;
+                text-align: center;
+            }
+
+            .signup-header {
+                background-color: #4CAF50;
+                color: #fff;
+                padding: 20px;
+            }
+
+            .signup-form {
+                padding: 20px;
+            }
+
+            input {
+                width: 100%;
+                padding: 10px;
+                margin: 8px 0;
+                box-sizing: border-box;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+            }
+
+            button {
+                background-color: #4CAF50;
+                color: #fff;
+                padding: 10px 20px;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                font-size: 16px;
+            }
+
+            button:hover {
+                background-color: #45A049;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="signup-container">
+            <div class="signup-header">
+                <h2>Sign Up</h2>
+            </div>
+            <div class"signup-form">
+                @RenderBody()
+            </div>
+        </div>
+    </body>
+</html>

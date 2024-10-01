@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pessoal\\Projects\\C#\\MasterClass\\BuildingApplications\\FirstWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85D68F2B-12CF-45FD-905F-39E3959DE7E7}|FirstWebApplication\\FirstWebApplication.csproj|d:\\pessoal\\projects\\c#\\masterclass\\buildingapplications\\firstwebapplication\\firstwebapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D68F2B-12CF-45FD-905F-39E3959DE7E7}|FirstWebApplication\\FirstWebApplication.csproj|solutionrelative:firstwebapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D68F2B-12CF-45FD-905F-39E3959DE7E7}|FirstWebApplication\\FirstWebApplication.csproj|d:\\pessoal\\projects\\c#\\masterclass\\buildingapplications\\firstwebapplication\\firstwebapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D68F2B-12CF-45FD-905F-39E3959DE7E7}|FirstWebApplication\\FirstWebApplication.csproj|solutionrelative:firstwebapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D68F2B-12CF-45FD-905F-39E3959DE7E7}|FirstWebApplication\\FirstWebApplication.csproj|d:\\pessoal\\projects\\c#\\masterclass\\buildingapplications\\firstwebapplication\\firstwebapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D68F2B-12CF-45FD-905F-39E3959DE7E7}|FirstWebApplication\\FirstWebApplication.csproj|solutionrelative:firstwebapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Pessoal\\Projects\\C#\\MasterClass\\BuildingApplications\\FirstWebApplication\\FirstWebApplication\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FirstWebApplication\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Pessoal\\Projects\\C#\\MasterClass\\BuildingApplications\\FirstWebApplication\\FirstWebApplication\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "FirstWebApplication\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:57:46.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Pessoal\\Projects\\C#\\MasterClass\\BuildingApplications\\FirstWebApplication\\FirstWebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FirstWebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Pessoal\\Projects\\C#\\MasterClass\\BuildingApplications\\FirstWebApplication\\FirstWebApplication\\Pages\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "FirstWebApplication\\Pages\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T08:28:51.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Pessoal\\Projects\\C#\\MasterClass\\BuildingApplications\\FirstWebApplication\\FirstWebApplication\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstWebApplication\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Pessoal\\Projects\\C#\\MasterClass\\BuildingApplications\\FirstWebApplication\\FirstWebApplication\\Pages\\Index.cshtml",
+              "RelativeToolTip": "FirstWebApplication\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T08:27:04.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
