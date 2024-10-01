@@ -1,0 +1,7 @@
+D:\Pessoal\Projects\C#\MasterClass\UnitTesting&Events\UnitTestDelegates\UnitTestDelegates\bin\Debug\UnitTestDelegates.exe.config
+D:\Pessoal\Projects\C#\MasterClass\UnitTesting&Events\UnitTestDelegates\UnitTestDelegates\bin\Debug\UnitTestDelegates.exe
+D:\Pessoal\Projects\C#\MasterClass\UnitTesting&Events\UnitTestDelegates\UnitTestDelegates\bin\Debug\UnitTestDelegates.pdb
+D:\Pessoal\Projects\C#\MasterClass\UnitTesting&Events\UnitTestDelegates\UnitTestDelegates\obj\Debug\UnitTestDelegates.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\C#\MasterClass\UnitTesting&Events\UnitTestDelegates\UnitTestDelegates\obj\Debug\UnitTestDelegates.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\UnitTesting&Events\UnitTestDelegates\UnitTestDelegates\obj\Debug\UnitTestDelegates.exe
+D:\Pessoal\Projects\C#\MasterClass\UnitTesting&Events\UnitTestDelegates\UnitTestDelegates\obj\Debug\UnitTestDelegates.pdb
