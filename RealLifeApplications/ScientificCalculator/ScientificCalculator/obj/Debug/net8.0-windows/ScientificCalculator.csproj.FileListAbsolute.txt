@@ -1,0 +1,17 @@
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\ScientificCalculator\ScientificCalculator\bin\Debug\net8.0-windows\ScientificCalculator.exe
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\ScientificCalculator\ScientificCalculator\bin\Debug\net8.0-windows\ScientificCalculator.deps.json
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\ScientificCalculator\ScientificCalculator\bin\Debug\net8.0-windows\ScientificCalculator.runtimeconfig.json
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\ScientificCalculator\ScientificCalculator\bin\Debug\net8.0-windows\ScientificCalculator.dll
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\ScientificCalculator\ScientificCalculator\bin\Debug\net8.0-windows\ScientificCalculator.pdb
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\ScientificCalculator\ScientificCalculator\obj\Debug\net8.0-windows\ScientificCalculator.Form1.resources
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\ScientificCalculator\ScientificCalculator\obj\Debug\net8.0-windows\ScientificCalculator.csproj.GenerateResource.cache
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\ScientificCalculator\ScientificCalculator\obj\Debug\net8.0-windows\ScientificCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\ScientificCalculator\ScientificCalculator\obj\Debug\net8.0-windows\ScientificCalculator.AssemblyInfoInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\ScientificCalculator\ScientificCalculator\obj\Debug\net8.0-windows\ScientificCalculator.AssemblyInfo.cs
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\ScientificCalculator\ScientificCalculator\obj\Debug\net8.0-windows\ScientificCalculator.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\ScientificCalculator\ScientificCalculator\obj\Debug\net8.0-windows\ScientificCalculator.sourcelink.json
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\ScientificCalculator\ScientificCalculator\obj\Debug\net8.0-windows\ScientificCalculator.dll
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\ScientificCalculator\ScientificCalculator\obj\Debug\net8.0-windows\refint\ScientificCalculator.dll
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\ScientificCalculator\ScientificCalculator\obj\Debug\net8.0-windows\ScientificCalculator.pdb
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\ScientificCalculator\ScientificCalculator\obj\Debug\net8.0-windows\ScientificCalculator.genruntimeconfig.cache
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\ScientificCalculator\ScientificCalculator\obj\Debug\net8.0-windows\ref\ScientificCalculator.dll

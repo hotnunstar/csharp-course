@@ -1,0 +1,17 @@
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0-windows\CurrencyConverter.exe
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0-windows\CurrencyConverter.deps.json
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0-windows\CurrencyConverter.runtimeconfig.json
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0-windows\CurrencyConverter.dll
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0-windows\CurrencyConverter.pdb
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0-windows\CurrencyConverter.Form1.resources
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0-windows\CurrencyConverter.csproj.GenerateResource.cache
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0-windows\CurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0-windows\CurrencyConverter.AssemblyInfoInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0-windows\CurrencyConverter.AssemblyInfo.cs
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0-windows\CurrencyConverter.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0-windows\CurrencyConverter.sourcelink.json
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0-windows\CurrencyConverter.dll
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0-windows\refint\CurrencyConverter.dll
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0-windows\CurrencyConverter.pdb
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0-windows\CurrencyConverter.genruntimeconfig.cache
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0-windows\ref\CurrencyConverter.dll

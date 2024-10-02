@@ -1,0 +1,17 @@
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\VolumeConverter\VolumeConverter\bin\Debug\net8.0-windows\VolumeConverter.exe
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\VolumeConverter\VolumeConverter\bin\Debug\net8.0-windows\VolumeConverter.deps.json
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\VolumeConverter\VolumeConverter\bin\Debug\net8.0-windows\VolumeConverter.runtimeconfig.json
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\VolumeConverter\VolumeConverter\bin\Debug\net8.0-windows\VolumeConverter.dll
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\VolumeConverter\VolumeConverter\bin\Debug\net8.0-windows\VolumeConverter.pdb
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\VolumeConverter\VolumeConverter\obj\Debug\net8.0-windows\VolumeConverter.Form1.resources
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\VolumeConverter\VolumeConverter\obj\Debug\net8.0-windows\VolumeConverter.csproj.GenerateResource.cache
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\VolumeConverter\VolumeConverter\obj\Debug\net8.0-windows\VolumeConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\VolumeConverter\VolumeConverter\obj\Debug\net8.0-windows\VolumeConverter.AssemblyInfoInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\VolumeConverter\VolumeConverter\obj\Debug\net8.0-windows\VolumeConverter.AssemblyInfo.cs
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\VolumeConverter\VolumeConverter\obj\Debug\net8.0-windows\VolumeConverter.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\VolumeConverter\VolumeConverter\obj\Debug\net8.0-windows\VolumeConverter.sourcelink.json
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\VolumeConverter\VolumeConverter\obj\Debug\net8.0-windows\VolumeConverter.dll
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\VolumeConverter\VolumeConverter\obj\Debug\net8.0-windows\refint\VolumeConverter.dll
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\VolumeConverter\VolumeConverter\obj\Debug\net8.0-windows\VolumeConverter.pdb
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\VolumeConverter\VolumeConverter\obj\Debug\net8.0-windows\VolumeConverter.genruntimeconfig.cache
+D:\Pessoal\Projects\C#\MasterClass\RealLifeApplications\VolumeConverter\VolumeConverter\obj\Debug\net8.0-windows\ref\VolumeConverter.dll
